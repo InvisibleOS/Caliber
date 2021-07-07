@@ -12,5 +12,4 @@
 
 <img src=https://i.imgur.com/8pH8sDQ.png width = 20> [**`Add Caliber to your server`**](https://discord.com/oauth2/authorize?client_id=802870173627056138&permissions=939879511&redirect_uri=https%3A%2F%2Fdiscord.com%2Finvite%2F6snqDwAPK9&scope=bot&response_type=code)
 <a href="https://discord.com/users/802870173627056138">
-
 <img src=https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg width = 20> [**`Join the support server`**](https://discord.com/invite/6snqDwAPK9)
