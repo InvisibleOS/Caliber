@@ -14,3 +14,7 @@
 <a href="https://discord.com/users/802870173627056138">
   
 <img src=https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg width = 20> [**`Join the support server`**](https://discord.com/invite/6snqDwAPK9)
+
+## Bug reports and suggestions
+Caliber is in continuous development and has new features added very often. 
+You can join our support server to suggest any features that you would like to see on Caliber or report any bugs that you have come across while using Caliber. 
