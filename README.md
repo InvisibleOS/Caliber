@@ -1,5 +1,5 @@
 # **Welcome to Caliber!**
-####\*Repo not ready yet\*
+#### \*Repo not ready yet\*
 
 ### **Caliber bot is a minimalistic, multipurpose Discord bot with a ton of cool features, such as:**
 - A customizable server prefix
